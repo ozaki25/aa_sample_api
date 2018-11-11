@@ -4,5 +4,8 @@
   "main": "index.js",
   "repository": "git@52.196.135.187:randd/aa_sample_api.git",
   "author": "ozaki25",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "express": "^4.16.4"
+  }
 }
